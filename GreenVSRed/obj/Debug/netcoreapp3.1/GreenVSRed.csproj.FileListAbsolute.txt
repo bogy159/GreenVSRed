@@ -1,0 +1,13 @@
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.exe
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.deps.json
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.runtimeconfig.json
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.runtimeconfig.dev.json
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.dll
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\bin\Debug\netcoreapp3.1\GreenVSRed.pdb
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.csprojAssemblyReference.cache
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.AssemblyInfoInputs.cache
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.AssemblyInfo.cs
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.csproj.CoreCompileInputs.cache
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.dll
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.pdb
+C:\Users\Bogy\source\repos\GreenVSRed\GreenVSRed\obj\Debug\netcoreapp3.1\GreenVSRed.genruntimeconfig.cache
